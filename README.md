@@ -2,7 +2,5 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning MERN stack
 - 💞️ I’m looking to collaborate on projects regarding my field
-- 👋 Hi there! I'm a passionate student eager to learn and explore new things.
--     This respitory is a part of my journey into the world of[programming/development/technology].
--     Here, I'll be sharing my progress, experiments, and projects as I dive deeper into this exciting field.
--     Feel free to explore, offer suggestions, or even collaborate with me. let's learn and grow together! 
+-     I'm a passionate student eager to learn and explore new things.
+
